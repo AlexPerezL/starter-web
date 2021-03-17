@@ -9,5 +9,8 @@ ejempplo de Introduccion
 Sample website with plenty of files for demos
 
 ## Deployment area
+area de desarrollo
+
 
 ## How to Contribute
+para contrinuir
