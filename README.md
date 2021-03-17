@@ -2,7 +2,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-ejempplo de Introduccion
+ejemplo de Introduccion
 
 ## Purpose
 
@@ -13,4 +13,4 @@ area de desarrollo
 
 
 ## How to Contribute
-para contrinuir
+para contribuir
